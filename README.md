@@ -49,7 +49,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/url-shortener.git
+https://github.com/Sachin0fficial/URL-Shortner-FullStack.git
 cd url-shortener/backend
 Configure MySQL:
 
